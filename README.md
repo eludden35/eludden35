@@ -1,5 +1,5 @@
-<h2> Hi, I'm Elonzo Ludden! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<h2> Hi, I'm Elonzo Ludden! <img src="https://media.giphy.com/media/XxmK7dzlBRAYbMsRe8/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/iIZO5d4IfSa0nkyLju/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">Long Wave Inc.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>CEO & Mentor at <a href="https://www.thoughtworks.com">Invigorate Code/a><img src="https://media.giphy.com/media/6RkATMjhy069yNExMd/giphy.gif" width="30"> 
 </em></p>
 
