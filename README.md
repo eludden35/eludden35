@@ -12,7 +12,7 @@
 ```javascript
 const elonzo = {
   pronouns: 'he' | 'him',
-  code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'SQL', 'Python'],
+  code: ['Javascript', 'Typescript','SQL', 'Python'],
   tools: ['Angular', 'React', 'Redux', 'Node', 'Bootstrap', 'Material Design', 'MySQL', 'GIT', 'TFS'],
   architecture: ['MVC', 'MVVM', 'TDD'],
   methodologies: ['Agile', 'Scrum'],
