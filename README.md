@@ -3,7 +3,7 @@
 <p><em>Software Enginner at <a href="http://www.longwaveinc.com/">Long Wave Inc.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>CEO & Mentor at <a href="https://www.invigoratecode.com/">Invigorate Code</a><img src="https://media.giphy.com/media/6RkATMjhy069yNExMd/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: elonzo-ludden](https://img.shields.io/badge/-elonzo-ludden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elonzo-ludden/)](https://www.linkedin.com/in/elonzo-ludden/)
+[![Linkedin: elonzoludden](https://img.shields.io/badge/-elonzoludden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elonzoludden/)](https://www.linkedin.com/in/elonzoludden/)
 [![GitHub eludden35](https://img.shields.io/github/followers/eludden35?label=follow&style=social)](https://github.com/eludden35)
 
 
