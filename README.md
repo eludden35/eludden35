@@ -25,13 +25,13 @@ const elonzo = {
     },
     {
       company: 'MS International',
-      startDate: March 2021',
+      startDate: 'March 2021',
       endDate: 'August 2021',
       techUsed: ['Angular','Redux', 'Bootstrap', 'Material Design']
     },
     {
       company: 'Value Fintech Startup',
-      startDate: October 2020',,
+      startDate: 'October 2020',,
       endDate: 'January 2021',
       techUsed: ['React', 'Bootstrap']
     },
