@@ -1,16 +1,44 @@
-### Hi there 👋
+<h2> Hi, I'm Elonzo Ludden! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Software Enginner at <a href="http://www.unb.br">Long Wave Inc.</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>CEO & Mentor at <a href="https://www.thoughtworks.com">Invigorate Code/a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**eludden35/eludden35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/elonzo-ludden/)
+[![GitHub eludden35](https://img.shields.io/github/followers/eludden35?label=follow&style=social)](https://github.com/eludden35)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const elonzo = {
+  pronouns: 'he' | 'him',
+  code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'SQL', 'Python'],
+  tools: ['Angular', 'React', 'Redux', 'Node', 'Bootstrap', 'Material Design', 'MySQL', 'GIT', 'TFS'],
+  architecture: ['MVC', 'MVVM', 'TDD'],
+  methodologies: ['Agile', 'Scrum'],
+  experience: [
+    {
+      company: 'Long Wave Inc.',
+      startDate: 'October 2021',
+      endDate: 'Present'
+      techUsed: ['Angular', 'MySQL', 'Express', 'Redux', 'Bootstrap', 'C#', 'TFS']
+    },
+    {
+      company: 'MS International',
+      startDate: March 2021',
+      endDate: 'August 2021',
+      techUsed: ['Angular','Redux', 'Bootstrap', 'Material Design']
+    },
+    {
+      company: 'Value Fintech Startup',
+      startDate: October 2020',,
+      endDate: 'January 2021',
+      techUsed: ['React', 'Bootstrap']
+    },
+  ]
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Lets Connect!</b> so if you want to say :)</em>
+
+---
