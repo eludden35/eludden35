@@ -3,11 +3,11 @@
 <p><em>Software Enginner at <a href="http://www.unb.br">Long Wave Inc.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>CEO & Mentor at <a href="https://www.thoughtworks.com">Invigorate Code/a><img src="https://media.giphy.com/media/6RkATMjhy069yNExMd/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/elonzo-ludden/)
+[![Linkedin: elonzo-ludden](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/elonzo-ludden/)
 [![GitHub eludden35](https://img.shields.io/github/followers/eludden35?label=follow&style=social)](https://github.com/eludden35)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...  
 
 ```javascript
 const elonzo = {
