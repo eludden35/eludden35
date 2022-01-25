@@ -1,4 +1,4 @@
-<h2> Hi, I'm <a href="https://www.elonzoludden.com/">Elonzo Ludden!</a> <img src="https://media.giphy.com/media/XxmK7dzlBRAYbMsRe8/giphy.gif" width="50"></h2>
+<h2> Hi, I'm <a href="https://www.elonzoludden.com/">Elonzo Ludden</a>! <img src="https://media.giphy.com/media/XxmK7dzlBRAYbMsRe8/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/iIZO5d4IfSa0nkyLju/giphy.gif" width="230">
 <p><em>Software Engineer at <a href="http://www.longwaveinc.com/">Long Wave Inc.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>CEO & Mentor at <a href="https://www.invigoratecode.com/">Invigorate Code</a><img src="https://media.giphy.com/media/6RkATMjhy069yNExMd/giphy.gif" width="30"> 
 </em></p>
